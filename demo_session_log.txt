@@ -1,0 +1,74 @@
+Welcome to the Contact Management System.
+Loaded 3 existing contact(s).
+
+==================================================
+        CONTACT MANAGEMENT SYSTEM
+==================================================
+1. Add Contact
+2. View All Contacts
+3. Search Contacts
+4. Filter by Group
+5. Update Contact
+6. Delete Contact
+7. List Groups
+8. Exit
+==================================================
+
+Enter your choice (1-8): 
+-- All Contacts --
+Sort by (name/group) [name]: NAME                 | PHONE           | EMAIL                     | GROUP
+---------------------------------------------------------------------------
+1. Anil Mehta           | 9988776655      | -                         | Family
+2. Priya Singh          | 9123456780      | priya@example.com         | Work
+3. Ravi Kumar           | 9876543210      | ravi@example.com          | Friends
+
+==================================================
+        CONTACT MANAGEMENT SYSTEM
+==================================================
+1. Add Contact
+2. View All Contacts
+3. Search Contacts
+4. Filter by Group
+5. Update Contact
+6. Delete Contact
+7. List Groups
+8. Exit
+==================================================
+
+Enter your choice (1-8): 
+-- Search Contacts --
+Search term (name/phone/email/group): NAME                 | PHONE           | EMAIL                     | GROUP
+---------------------------------------------------------------------------
+1. Priya Singh          | 9123456780      | priya@example.com         | Work
+
+==================================================
+        CONTACT MANAGEMENT SYSTEM
+==================================================
+1. Add Contact
+2. View All Contacts
+3. Search Contacts
+4. Filter by Group
+5. Update Contact
+6. Delete Contact
+7. List Groups
+8. Exit
+==================================================
+
+Enter your choice (1-8): 
+-- Add Contact --
+Name: Phone: Email (optional): Group (default: General): [Error] Invalid phone number: 'abc123'. Use 7-15 digits, optional leading +.
+
+==================================================
+        CONTACT MANAGEMENT SYSTEM
+==================================================
+1. Add Contact
+2. View All Contacts
+3. Search Contacts
+4. Filter by Group
+5. Update Contact
+6. Delete Contact
+7. List Groups
+8. Exit
+==================================================
+
+Enter your choice (1-8): Goodbye!

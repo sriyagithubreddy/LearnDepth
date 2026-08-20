@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ravi Kumar",
+    "phone": "9876543210",
+    "email": "ravi@example.com",
+    "group": "Friends"
+  },
+  {
+    "name": "Priya Singh",
+    "phone": "9123456780",
+    "email": "priya@example.com",
+    "group": "Work"
+  },
+  {
+    "name": "Anil Mehta",
+    "phone": "9988776655",
+    "email": "",
+    "group": "Family"
+  },
+  {
+    "name": "Sriya",
+    "phone": "1234567890",
+    "email": "xyz@mail.com",
+    "group": "General"
+  }
+]
